@@ -1,6 +1,3 @@
-;·þÎñÆ÷·Ö×é	ÓÎÏ·Ãû³Æ	ÓÎÏ·IPµØÖ·	¶Ë¿Ú	¹«¸æµØÖ·	ÍøÕ¾Ö÷Ò³	×°±¸Õ¹Ê¾	Íø¹ØÃÜÂë
-µÚ1¼¾¡ÌµÚ¢ÙÕ½Çø-[³¤ÆÚ¡ïÎÈ¶¨]|ÐÄÒâ¢ÙÕ½Çø-[01Çø]|121.121.121.121|17001|http://www.xydlq.cn/Link.htm|http://www.xydlq.cn/top.htm|http://www.xydlq.cn|123456
-µÚ1¼¾¡ÌµÚ¢ÙÕ½Çø-[³¤ÆÚ¡ïÎÈ¶¨]|ÐÄÒâ¢ÙÕ½Çø-[02Çø]|121.121.121.121|17001|http://www.xydlq.cn/Link.htm|http://www.xydlq.cn/top.htm|http://www.xydlq.cn|123456
-µÚ1¼¾¡ÌµÚ¢ÙÕ½Çø-[³¤ÆÚ¡ïÎÈ¶¨]|ÐÄÒâ¢ÙÕ½Çø-[03Çø]|121.121.121.121|17001|http://www.xydlq.cn/Link.htm|http://www.xydlq.cn/top.htm|http://www.xydlq.cn|123456
-µÚ1¼¾¡ÌµÚ¢ÙÕ½Çø-[³¤ÆÚ¡ïÎÈ¶¨]|ÐÄÒâ¢ÙÕ½Çø-[04Çø]|121.121.121.121|17001|http://www.xydlq.cn/Link.htm|http://www.xydlq.cn/top.htm|http://www.xydlq.cn|123456
-µÚ1¼¾¡ÌµÚ¢ÙÕ½Çø-[³¤ÆÚ¡ïÎÈ¶¨]|ÐÄÒâ¢ÙÕ½Çø-[05Çø]|121.121.121.121|17001|http://www.xydlq.cn/Link.htm|http://www.xydlq.cn/top.htm|http://www.xydlq.cn|123456
+;服务器分组	游戏名称	游戏IP地址	端口	公告地址	网站主页	装备展示	网关密码
+第1季√第①-①战区-[长期★稳定]|电信-清风①-①战区-[1线]|115.231.222.202|7000|http://mir.mccding.com|http://mir.mccding.com|http://mir.mccding.com|123456
+
